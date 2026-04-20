@@ -1,0 +1,7 @@
+candidate_name,years_experience,skills_score,career_gap_months,women_org_signal,soft_language_resume
+Candidate A,5,18,0,0,0
+Candidate B,5,18,0,1,0
+Candidate C,5,18,12,0,0
+Candidate D,4,19,0,0,1
+Candidate E,6,17,0,1,1
+Candidate F,5,20,0,0,0
